@@ -1,2 +1,9 @@
 # INF251
-Repositório para os trabalhos e conteúdos da Disciplina INF251
+
+Repositório para a disciplina de Organização de Computadores I
+
+## Links dos Vídeos
+
+* []()
+* []()
+* []()
