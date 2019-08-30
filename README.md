@@ -13,3 +13,5 @@ Repositório para a disciplina de Organização de Computadores I
 * [Algebra Booleana, Portas Logicas, Tabelas e Expressoes](https://youtu.be/28biydxKwHg)
 * [Introducao a Mapas de Karnaugh - BDC 4 bits e Maior/Igual com modulos](https://youtu.be/ueLKVIQQTPk)
 * [Mapa de Karnaugh, Verilog](https://youtu.be/XH40sdzY9Eo)
+* [Pratica 3 - Alu turma 1](https://youtu.be/kaWj5e5LVbI)
+* [Pratica 3 - Alu turma 2](https://youtu.be/s-sduKbfJiQ)
